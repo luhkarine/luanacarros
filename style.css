@@ -1,17 +1,17 @@
 p{
     color:black
     text-align:justify;
-    font-size: 24px;
+    font-size:24px;
 }
 
 h1{
-    color:rgb(159, 0, 180)
+    color:rgb(159, 0, 180);
     text-align:center;
-    font: size 40px;
+    font-size: 40px;
     font-style: italic;
 }
 
 body{
-    background-color:white
+    background-color:white;
 }
 
